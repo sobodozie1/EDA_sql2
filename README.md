@@ -1,7 +1,26 @@
-MySQL x Power BI
+## MySQL x Power BI
 
-Combination of analytical tools maketh a good analyst. Here, MySQL was used for a possible wrangling and subsequent exploration, before using Power BI to create a visual summary of the insights. The combination of MySQL for data wrangling and Power BI for visualization provides a powerful end-to-end solution for data analysis.
+Combination of analytical tools maketh a good analyst. Here, MySQL was used for a possible wrangling and subsequent exploration, before using Power BI to create a visual summary of the insights. The combination of MySQL for data wrangling and Power BI for visualization provides a powerful end-to-end solution for data analysis. What are featured here are mainly;
+- Data importation into the MySQL and database creation
+- Data wrangling and preliminary exploration in the MySQL
+- Exportation to Power BI, Table connection, and Visualisation
 
+Data Dictionary:
+- Emp_ID : Unique employment identification code issued by the company
+- First Name : The first name of a staff
+- Last Name  : The last name of a staff
+- Birth Date : The birth date of the staff
+- Gender : The biological gender of a staff
+- Race : The geographical race of a staff
+- Department : The functional department/scetion of a staff within the company
+- Job Title : The title of the job role of a staff within the company
+- Location : The geographical working branch of a staff within the company 
+- Hire Date : Effective date an employee was hired by the company 
+- Termination Date: Effective date an employee was dismissed by the company
+- Location City : The geographical location of a staff by City
+- Location State : The geographical location of a staff by State
+
+The dataset concerns a hypothetical company whose aims was determine, mainly, their staff retention, location distibution, race distribution and sex distribution, possibly for balancing, optimization, and enhancement of efficiency.
 
 MySQL is a powerful relational database management system that can be used for data cleaning and preparation tasks. With MySQL, you can import raw data into a database, allowing one to perform various cleaning operations on it. The data cleaning tasks in MySQL may include removing duplicates, handling missing values, standardizing data formats, and correcting inconsistent entries.
 
