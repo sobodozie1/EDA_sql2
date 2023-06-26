@@ -1,4 +1,6 @@
 ## MySQL x Power BI
+<img src="sql.png" alt="SQL logo" style="margin-left: auto; margin-right: auto; height: 100px; width: 100px;"/><img src="python.webp" alt="python logo" style="margin-left: auto; margin-right: auto; height: 100px; width: 100px;"/><img src="sqlite.png" alt="SQLite logo" style="margin-left: auto; margin-right: auto; height: 100px; width: 100px;"/>
+
 
 Combination of analytical tools maketh a good analyst. Here, MySQL was used for a possible wrangling and subsequent exploration, before using Power BI to create a visual summary of the insights. The combination of MySQL for data wrangling and Power BI for visualization provides a powerful end-to-end solution for data analysis. What are featured here are mainly;
 - Data importation into the MySQL and database creation
